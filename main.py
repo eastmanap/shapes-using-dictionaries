@@ -70,7 +70,7 @@ def main():
                 'width': 10
             }
 
-        
+        # RGB cycle
         if col1_:
             col1 += 1
             col3 -= 1
